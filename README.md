@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshkulkarni-1001
 - 👀 I’m interested in learning skills updating myself, Soloriding, trekking, collecting the plastics my sorroundings
-- 🌱 I’m currently learning backend skills & frontend skills
-- 📫 How to reach me linked/in/Harsh kulkanri
+- 🌱 I’m currently fullstack developer
+- 📫 How to reach me www.linkedin.com/in/harsh-kulkarni01
 - 😄 Pronouns: he/him
 
 <!---
