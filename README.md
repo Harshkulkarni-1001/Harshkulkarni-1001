@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshkulkarni-1001
-- 👀 I’m interested in learning skills updating myself, Soloriding, trekking, collecting the plastics my sorroundings
+- 👀 I’m interested in learning Math & skills updating myself, Soloriding, trekking, Nature lover
 - 🌱 I’m currently fullstack developer
 - 📫 How to reach me www.linkedin.com/in/harsh-kulkarni01
 - 😄 Pronouns: he/him
